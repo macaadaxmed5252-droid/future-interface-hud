@@ -27,5 +27,5 @@ Future Interface waa bog loogu talagalay maamulka aqoonsiga mustaqbalka (Cyberpu
 
 1. **Soo degso (Clone) mashruucan:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/future-interface-hud.git](https://github.com/YOUR-USERNAME/future-interface-hud.git)
+   git clone [https://github.com/macaadaxmed5252-droid/3d-perspective-card.git](https://github.com/macaadaxmed5252-droid/3d-perspective-card.git)
    
